@@ -19,6 +19,6 @@
 
 3.1. [Мониторинг сетевых событий (Suricata)](https://github.com/netology-code/ibdef-homeworks/tree/master/05_ids)
 
-3.2. [Penetration Testing (часть 1)](https://github.com/netology-code/ibdef-homeworks/tree/master/06_pentest_1)
+3.2. [Penetration Testing (часть 1)](https://github.com/netology-code/ibdef-homeworks/tree/master/06_pentest)
 
 3.3. [Penetration Testing (часть 2)]()
