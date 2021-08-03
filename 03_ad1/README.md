@@ -33,9 +33,9 @@ https://efsol.ru/manuals/active-directory.html
 
 Создайте в AD:
 
-- пользователя `students1`, входящего в группу `student1`.
+- пользователя `student1`, входящего в группу `students1`.
 
-- пользователя `students2`, входящего в группу `student2`.
+- пользователя `student2`, входящего в группу `students2`.
 
   
 
