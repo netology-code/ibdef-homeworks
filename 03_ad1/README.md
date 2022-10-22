@@ -10,13 +10,13 @@
 
 Настройки виртуальной машины:
 - два сетевых интерфейса: NAT и внутренняя сеть;
-- оперативная память — 2-4 Гб.
+- оперативная память — 2–4 Гб.
 
 2. Настройте Active Directory, используя материалы из открытых источников ниже:
 
-- https://1cloud.ru/help/windows/active-directory-domain-services-ustanovka-i-nastrojka-windows-server;
-- https://habr.com/ru/company/testo_lang/blog/525326/;
-- https://efsol.ru/manuals/active-directory.html.
+- [материал 1](https://1cloud.ru/help/windows/active-directory-domain-services-ustanovka-i-nastrojka-windows-server);
+- [материал 2](https://habr.com/ru/company/testo_lang/blog/525326/);
+- [материал 3](https://efsol.ru/manuals/active-directory.html).
 
 *Дайте ответ в виде снимков экрана.*
 
@@ -35,8 +35,7 @@
 
 ### Задание 3
 
-- Создайте или используйте существующую ВМ с установленной ОС Windows и подключите к домену:
-https://docs.microsoft.com/ru-ru/windows-server/identity/ad-fs/deployment/join-a-computer-to-a-domain;
+- Создайте или используйте существующую ВМ с установленной ОС Windows и подключите к домену [ссылке](https://docs.microsoft.com/ru-ru/windows-server/identity/ad-fs/deployment/join-a-computer-to-a-domain);
 - Зайдите под доменными учётными записями.
 
 *Дайте ответ в виде снимков экрана.*
