@@ -11,7 +11,7 @@
 Настройка виртуальной машины.
 
 Для пользователей с процессорами ARM (M Apple Silicon или другими) можно воспользоваться системой визуализации https://www.qemu.org/. 
-Для Apple Mac https://github.com/utmapp/UTM (docs https://docs.getutm.app/).
+Для Apple Mac — https://github.com/utmapp/UTM (docs https://docs.getutm.app/).
 
 Для настройки виртуальной машины:
 - два сетевых интерфейса: NAT и внутренняя сеть;
