@@ -6,9 +6,12 @@
 
 ### Задание 1
 
-1. Скачайте и установите Windows Server 2019 (2016), используя файл по [ссылке](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019). 
+1. Скачайте и установите Windows Server 2019 (20162012), используя файл по [ссылке](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019). 
 
-Настройки виртуальной машины:
+Настройка виртуальной машины.
+Для пользователей с процессорами ARM (M Apple Silicon или другими) можно воспользоваться системой визуализации https://www.qemu.org/. 
+Для Apple Mac https://github.com/utmapp/UTM (docs https://docs.getutm.app/).
+Для настройки виртуальной машины:
 - два сетевых интерфейса: NAT и внутренняя сеть;
 - оперативная память — 2–4 Гб.
 
