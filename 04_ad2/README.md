@@ -36,4 +36,9 @@
 
 Установите утилиту BloodHound и проведите аудит DC.
 
+Для выполнения данного задания требуется создать директорию в DC, которая не проверяется встроенной системой безопасности (https://learn.microsoft.com/ru-ru/defender-endpoint/configure-extension-file-exclusions-microsoft-defender-antivirus). 
+
+Для функционирования BloodHound требуется база данных neo4j, для установки neo4j можно воспользоваться инструкцией (https://neo4jrb.readthedocs.io/en/stable/Setup.html). 
+Мы рекомендуем развернуть на хостовой машине Docker и воспользоваться уже готовой системой https://hub.docker.com/r/bitnami/neo4j. 
+
 *Дайте ответ в свободной форме..*
