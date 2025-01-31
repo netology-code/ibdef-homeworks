@@ -4,7 +4,7 @@
 
 Для выполнения работы можно воспользоваться виртуальной машиной из Домашнее задание к занятию «Active Directory. Часть 1».
 
-Настройки виртуальной машины (для пользователей с процессорами ARM (M Apple Silicon или другими) можно воспользоваться [системой визуализации](https://www.qemu.org/) (для [Apple Mac](https://github.com/utmapp/UTM)) ([docs](https://docs.getutm.app/)).
+Настройки виртуальной машины (для пользователей с процессорами ARM (M Apple Silicon или другими) можно воспользоваться [системой визуализации](https://www.qemu.org/) (для [Apple Mac](https://github.com/utmapp/UTM)) ([docs](https://docs.getutm.app/))).
 
 ## 
 
@@ -12,7 +12,7 @@
 
 Проведите самостоятельный аудит установленного на прошлом занятии DC, опираясь на лекцию. 
 
-Проведете проверку системы при помощи DCDiag. https://learn.microsoft.com/ru-ru/windows-server/administration/windows-commands/dcdiag
+Проведете проверку системы при помощи [DCDiag.](https://learn.microsoft.com/ru-ru/windows-server/administration/windows-commands/dcdiag)
 
 *Дайте ответ в свободной форме.*
 
@@ -38,7 +38,7 @@
 
 Для выполнения данного задания требуется создать директорию в DC, которая не проверяется встроенной системой безопасности (https://learn.microsoft.com/ru-ru/defender-endpoint/configure-extension-file-exclusions-microsoft-defender-antivirus). 
 
-Для функционирования BloodHound требуется база данных neo4j, для установки neo4j можно воспользоваться инструкцией (https://neo4jrb.readthedocs.io/en/stable/Setup.html). 
-Мы рекомендуем развернуть на хостовой машине Docker и воспользоваться уже готовой системой https://hub.docker.com/r/bitnami/neo4j. 
+Для функционирования BloodHound требуется база данных neo4j, для установки neo4j можно воспользоваться [инструкцией](https://neo4jrb.readthedocs.io/en/stable/Setup.html). 
+Мы рекомендуем развернуть на хостовой машине Docker и воспользоваться уже готовой [системой](https://hub.docker.com/r/bitnami/neo4j). 
 
 *Дайте ответ в свободной форме..*
