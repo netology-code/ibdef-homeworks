@@ -4,7 +4,7 @@
 
 Для выполнения работы можно воспользоваться виртуальной машиной из Домашнее задание к занятию «Active Directory. Часть 1».
 
-Настройки виртуальной машины (для пользователей с процессорами ARM (M Apple Silicon или другими) можно воспользоваться [системой визуализации](https://www.qemu.org/) (для [Apple Mac](https://github.com/utmapp/UTM) ([docs](https://docs.getutm.app/)).
+Настройки виртуальной машины (для пользователей с процессорами ARM (M Apple Silicon или другими) можно воспользоваться [системой визуализации](https://www.qemu.org/) (для [Apple Mac](https://github.com/utmapp/UTM)) ([docs](https://docs.getutm.app/)).
 
 ## 
 
